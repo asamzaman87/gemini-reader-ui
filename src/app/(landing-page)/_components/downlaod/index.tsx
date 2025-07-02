@@ -18,8 +18,8 @@ import Image from "next/image";
 import { ToggleColorMode } from "../toggle-color-mode";
 
 const EXT_URL = {
-  chrome: "https://chromewebstore.google.com/detail/gpt-reader-a-free-Gemini/aeggkceabpfajnglgaeadofdmeboimml?authuser=0&hl=en",
-  firefox: "https://addons.mozilla.org/en-US/firefox/addon/gpt-reader/",
+  chrome: "https://chromewebstore.google.com/detail/gemini-reader-free-ai-tex/ipldcpaajpmldoplmnimmabmdmkiidfg",
+  firefox: "https://addons.mozilla.org/en-US/firefox/addon/gemini-reader/",
   edge: "https://microsoftedge.microsoft.com/addons/detail/oalnicbngdjhapmbjnoampbhioncjleo",
 }
 const DownloadUI = () => {
