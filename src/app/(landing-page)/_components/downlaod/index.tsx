@@ -20,7 +20,7 @@ import { ToggleColorMode } from "../toggle-color-mode";
 const EXT_URL = {
   chrome: "https://chromewebstore.google.com/detail/gemini-reader-free-ai-tex/ipldcpaajpmldoplmnimmabmdmkiidfg",
   firefox: "https://addons.mozilla.org/en-US/firefox/addon/gemini-reader/",
-  edge: "https://microsoftedge.microsoft.com/addons/detail/oalnicbngdjhapmbjnoampbhioncjleo",
+  edge: "https://microsoftedge.microsoft.com/addons/detail/okghbabejcehhampoiadpillfmmbnnng",
 }
 const DownloadUI = () => {
   const { mode, toggleTheme } = useThemeContext();
